@@ -69,8 +69,8 @@ commit_parsers = [
   { message = "^style", group = "Styling" },
   { message = "^revert", group = "Reverted" },
   { message = "^.*: [r|R]emove|^.*: [d|D]elete", group = "Removed" },
+  { message = "^Merge", skip = true },
   { message = ".*", group = "Other", default_scope = "other"},
-  { message = "^Merge", skip = true }
 ]
 # filter out the commits that are not matched by commit parsers
 filter_commits = false
