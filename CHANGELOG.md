@@ -22,11 +22,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
+- *(changelog)* Update CHANGELOG in Auto Changelog
+
+### Fixed
+
+- *(git-cliff)* Change order of checks
 
 ### Other
 
-- *(other)* Merge pull request #3 from clement-jny/refactor/config-cliff
-- *(other)* Merge pull request #2 from clement-jny/feat/shadcn-init
-- *(other)* Merge pull request #1 from clement-jny/feat/changelog-release-actions
 - *(other)* Initial commit from Create Next App
 
